@@ -1,0 +1,6 @@
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+body{
+    background-image: url("../assets/w1.webp");
+}
